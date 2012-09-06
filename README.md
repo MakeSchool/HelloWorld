@@ -1,4 +1,5 @@
 HelloWorld
 ==========
 
-MGWU Hello Spaceships
+Hello Spaceships
+MakeGamesWith.Us
